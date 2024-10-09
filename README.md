@@ -76,7 +76,10 @@ The main entry point for the application is the Home class.
 To start the application, run the main method in the Home class.
 
 # Example Usage
-Add Employee: Navigate to the add employee screen, fill in the details, and click the add button.
-View Employees: Navigate to the view employees screen to see a list of all employees. Use the search functionality to filter by employee ID.
-Update Employee: From the view employees screen, select an employee and click the update button to modify their details.
-Remove Employee: Navigate to the remove employee screen to delete an employee record.
+1.Add Employee: Navigate to the add employee screen, fill in the details, and click the add button.
+
+2.View Employees: Navigate to the view employees screen to see a list of all employees. Use the search functionality to filter by employee ID.
+
+3.Update Employee: From the view employees screen, select an employee and click the update button to modify their details.
+
+4.Remove Employee: Navigate to the remove employee screen to delete an employee record.
